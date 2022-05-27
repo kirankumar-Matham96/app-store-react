@@ -1,4 +1,4 @@
-In this project, let's build an **App Store** by applying the concepts we have learned till now.
+In this project, I build an **App Store** by applying the concepts that I have learned till now using ReactJS.
 
 ### Refer to the image below:
 
