@@ -1,0 +1,27 @@
+.tab-item-container {
+  width: 25%;
+  border-bottom: 2px solid #dfe2e5;
+}
+.tab-button {
+  border: none;
+  width: 100%;
+  padding: 5px 5px;
+
+  font-family: 'Roboto';
+  background-color: transparent;
+  color: #7b8794;
+  cursor: pointer;
+  outline: none;
+}
+@media (min-width: 768px) {
+  .tab-button {
+    font-size: 18px;
+    padding: 14px 20px;
+  }
+}
+
+.blue-style {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  font-weight: 500;
+}
